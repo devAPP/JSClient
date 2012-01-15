@@ -1,196 +1,0 @@
-TJSClient
-v4
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist JSClient/JSClient-Info.plist
-cProcessPCH /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o /Users/ignaziocalo/Desktop/JSClient/JSClient/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o /Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient normal i386
-cGenerateDSYMFile /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-cCopyStringsFile /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings JSClient/en.lproj/InfoPlist.strings
-cTouch /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
-c000000004EF37D600000000000000110
-t1324580192
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004E72F1CC0000000000245480
-t1316155852
-s2380928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004E72F2960000000000353830
-t1316156054
-s3487792
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004E7806AB00000000008F7390
-t1316488875
-s9401232
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/JSClient.LinkFileList
-c000000004F06073C000000000000013F
-t1325795132
-s319
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/PkgInfo
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m
-c000000004F06072C00000000000008EA
-t1325795116
-s2282
-
-N/Users/ignaziocalo/Desktop/JSClient/JSClient/JSClient-Prefix.pch
-c000000004F06072C000000000000013F
-t1325795116
-s319
-
-N/Users/ignaziocalo/Desktop/JSClient/JSClient/en.lproj/InfoPlist.strings
-c000000004F06072C000000000000002D
-t1325795116
-s45
-
-N/Users/ignaziocalo/Desktop/JSClient/JSClient/main.m
-c000000004F06072C0000000000000154
-t1325795116
-s340
-
-NJSClient/JSClient-Info.plist
-c000000004F06072C00000000000004B6
-t1325795116
-s1206
-
-CBuild AST from /Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m
-r0
-
-CBuild AST from /Users/ignaziocalo/Desktop/JSClient/JSClient/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5b97d6bc3eb6b441^db32e4bc3eb6b441^---0#1#0#--18"Check dependencies36"6EB1C9FD-BD87-42BD-A6CB-5422A62B69DD-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o /Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s347487933.927309
-e347487934.004524
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o
-x/Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m4e7cedbd3eb6b441^5b2801be3eb6b441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m0000000000000000^3011"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o JSClient/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignaziocalo/Desktop/JSClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386 -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources -F/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -include /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch -MMD -MT dependencies -MF /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.d -c /Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o36"0380BDF9-24BE-4504-801E-4E1B94D0D0CD-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o /Users/ignaziocalo/Desktop/JSClient/JSClient/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s347487933.927297
-e347487933.995073
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o
-x/Users/ignaziocalo/Desktop/JSClient/JSClient/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/ignaziocalo/Desktop/JSClient/JSClient/main.m917cedbd3eb6b441^34bffebd3eb6b441^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/ignaziocalo/Desktop/JSClient/JSClient/main.m0000000000000000^2976"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o JSClient/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignaziocalo/Desktop/JSClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386 -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources -F/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -include /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch -MMD -MT dependencies -MF /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.d -c /Users/ignaziocalo/Desktop/JSClient/JSClient/main.m -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o36"E00824F6-9476-41F7-8BDC-76B21F74F239-
-
-CCopyStringsFile /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings JSClient/en.lproj/InfoPlist.strings
-s347487934.695621
-e347487934.714507
-r1
-xCopyStringsFile
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings
-xJSClient/en.lproj/InfoPlist.strings
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy JSClient/en.lproj/InfoPlist.stringsc023b2be3eb6b441^4aecb6be3eb6b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/ignaziocalo/Desktop/JSClient/JSClient/en.lproj/InfoPlist.strings0000000000000000^569"CopyStringsFile DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings JSClient/en.lproj/InfoPlist.strings    cd /Users/ignaziocalo/Desktop/JSClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj -- JSClient/en.lproj/InfoPlist.strings36"86A223E8-A3DC-4674-A91D-7A5A50A24995-
-
-CGenerateDSYMFile /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-s347487934.625817
-e347487934.686643
-r1
-xGenerateDSYMFile
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generating /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM0e4ea0be3eb6b441^2ac8afbe3eb6b441^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM00f450ebdeffdf42^610"GenerateDSYMFile DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient    cd /Users/ignaziocalo/Desktop/JSClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM36"B56E05E6-2F14-4A48-9E71-533C81D53487-
-
-CLd /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient normal i386
-s347487934.012251
-e347487934.618127
-r1
-xLd
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-xnormal
-xi386
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient863703be3eb6b441^bc3f9ebe3eb6b441^---0#0#0#--1189"Ld DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient normal i386    cd /Users/ignaziocalo/Desktop/JSClient    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -F/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -filelist /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/JSClient.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient36"A7AE91C1-EF8F-4E0B-AF0F-40BBDD5B69B9-
-
-CProcessInfoPlistFile /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist JSClient/JSClient-Info.plist
-s347487932.897987
-e347487932.904568
-r1
-xProcessInfoPlistFile
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist
-xJSClient/JSClient-Info.plist
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process JSClient/JSClient-Info.pliste0f5e5bc3eb6b441^530325bd3eb6b441^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/ignaziocalo/Desktop/JSClient/JSClient/JSClient-Info.plist0000000000000000^674"ProcessInfoPlistFile DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist JSClient/JSClient-Info.plist    cd /Users/ignaziocalo/Desktop/JSClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility JSClient/JSClient-Info.plist -genpkginfo /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist36"46F3B0A2-3ED0-49D0-960C-D4BE97B107A1-
-
-CProcessPCH /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s347487932.913889
-e347487933.919688
-r1
-xProcessPCH
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth
-xJSClient/JSClient-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile JSClient/JSClient-Prefix.pchc616eabc3eb6b441^1d72ebbd3eb6b441^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/ignaziocalo/Desktop/JSClient/JSClient/JSClient-Prefix.pch0000000000000000^2838"ProcessPCH DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignaziocalo/Desktop/JSClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386 -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources -F/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -c /Users/ignaziocalo/Desktop/JSClient/JSClient/JSClient-Prefix.pch -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth -MMD -MT dependencies -MF /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.d36"90083547-D8C4-4CBA-A01C-52D42E437333-
-
-CProcessPCH /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Index/PrecompiledHeaders/JSClient-Prefix-evqyptvdveourzctbxmenuuydarj_ast/JSClient-Prefix.pch.pth JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app
-s347487934.722185
-e347487934.744472
-r1
-xTouch
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app2dedb8be3eb6b441^fb95bebe3eb6b441^---0#0#0#--380"Touch DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app    cd /Users/ignaziocalo/Desktop/JSClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app36"46AF7745-A903-4B65-960D-232558670CE9-
-

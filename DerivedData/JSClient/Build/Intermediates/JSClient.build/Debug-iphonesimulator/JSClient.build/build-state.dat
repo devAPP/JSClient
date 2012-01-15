@@ -1,617 +1,0 @@
-TJSClient
-v4
-r1
-cCheck dependencies
-cProcessInfoPlistFile "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist" JSClient/JSClient-Info.plist
-cProcessPCH "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch.pth" JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/MainTableViewController.o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/MainTableViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/Contatto.o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/Contatto.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient" normal i386
-cGenerateDSYMFile "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM" "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient"
-cCopyStringsFile "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings" JSClient/en.lproj/InfoPlist.strings
-cCompileStoryboard "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/mainStoryBoard.storyboard"
-cTouch "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
-c000000004EF37D600000000000000110
-t1324580192
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004E72F1CC0000000000245480
-t1316155852
-s2380928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004E72F2960000000000353830
-t1316156054
-s3487792
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004E7806AB00000000008F7390
-t1316488875
-s9401232
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o
-t1325795647
-s49456
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o
-t1326060047
-s44556
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/JSClient.LinkFileList
-c000000004F0A120E000000000000029A
-t1326060046
-s666
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o
-t1325795133
-s2712
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/mainTableViewController.o
-t1326060482
-s51408
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth
-t1325795133
-s3914896
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app
-t1326060482
-s238
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM
-t1326060482
-s102
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist
-t1325795358
-s865
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-t1326060482
-s28016
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/PkgInfo
-t1325795358
-s8
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings
-t1325795134
-s42
-
-N/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/mainStoryBoard.storyboardc
-t1326060052
-s238
-
-N/Users/ignaziocalo/Desktop/JSClient/DetailViewController.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/DetailViewController.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/JSClient/JSClient-Prefix.pch
-c000000004F06072C000000000000013F
-t1325795116
-s319
-
-N/Users/ignaziocalo/Desktop/JSClient/JSClient/en.lproj/InfoPlist.strings
-c000000004F06072C000000000000002D
-t1325795116
-s45
-
-N/Users/ignaziocalo/Desktop/JSClient/JSClient/main.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/mainStoryBoard.storyboard
-c000000004F0A0F280000000000002F31
-t1326059304
-s12081
-
-N/Users/ignaziocalo/Desktop/JSClient/mainTableViewController.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/JSClient/mainTableViewController.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/Contatto.h
-c000000004F129C300000000000000194
-t1326619696
-s404
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/Contatto.m
-c000000004F11BFBE00000000000000EA
-t1326563262
-s234
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o
-t1326561077
-s49504
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/Contatto.o
-t1326619698
-s8008
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o
-t1326624086
-s46648
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/JSClient.LinkFileList
-c000000004F129C310000000000000380
-t1326619697
-s896
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/MainTableViewController.o
-t1326624145
-s55644
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o
-t1326561077
-s2752
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch.pth
-t1326561077
-s3915036
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app
-t1326624145
-s238
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM
-t1326624145
-s102
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist
-t1325795358
-s865
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-t1326624145
-s34768
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/PkgInfo
-t1325795358
-s8
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings
-t1325795134
-s42
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/mainStoryBoard.storyboardc
-t1326562331
-s238
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DetailViewController.h
-c000000004F12A0C7000000000000021A
-t1326620871
-s538
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DetailViewController.m
-c000000004F12AD5500000000000005C4
-t1326624085
-s1476
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/AppDelegate.h
-c000000004F06072C0000000000000119
-t1325795116
-s281
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/AppDelegate.m
-c000000004F06093E00000000000008F2
-t1325795646
-s2290
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/JSClient-Prefix.pch
-c000000004F06072C000000000000013F
-t1325795116
-s319
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/en.lproj/InfoPlist.strings
-c000000004F06072C000000000000002D
-t1325795116
-s45
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/main.m
-c000000004F06072C0000000000000154
-t1325795116
-s340
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/MainTableViewController.h
-c000000004F129C30000000000000013B
-t1326619696
-s315
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/MainTableViewController.m
-c000000004F12AD8B000000000000158D
-t1326624139
-s5517
-
-N/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/mainStoryBoard.storyboard
-c000000004F11BC160000000000002FA3
-t1326562326
-s12195
-
-NJSClient/JSClient-Info.plist
-c000000004F0607E700000000000004F8
-t1325795303
-s1272
-
-CBuild AST from "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/Contatto.m"
-r0
-
-CBuild AST from "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DetailViewController.m"
-r0
-
-CBuild AST from "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/AppDelegate.m"
-r0
-
-CBuild AST from "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/main.m"
-r0
-
-CBuild AST from "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/MainTableViewController.m"
-r0
-
-CBuild AST from /Users/ignaziocalo/Desktop/JSClient/DetailViewController.m
-r0
-
-CBuild AST from /Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m
-r0
-
-CBuild AST from /Users/ignaziocalo/Desktop/JSClient/JSClient/main.m
-r0
-
-CBuild AST from /Users/ignaziocalo/Desktop/JSClient/mainTableViewController.m
-r0
-
-CCheck dependencies
-r0
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies77f7d082edc2b441^a512ea82edc2b441^---0#1#0#--18"Check dependencies36"17EE8CD0-472F-4F16-80FD-06163B637A36-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s348253877.157162
-e348253877.340400
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/AppDelegate.m225528b5eec1b441^dbbe57b5eec1b441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/ignaziocalo/Desktop/Tutorial%20JSON/JSClient/JSClient/AppDelegate.m0000000000000000^3219"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o JSClient/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap" -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources" "-F/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator" -include "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch" -MMD -MT dependencies -MF "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.d" -c "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/AppDelegate.m" -o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o"36"A1323DD0-E9AA-4C00-B4CB-9A38F659C73F-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o /Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s347488447.586727
-e347488447.721377
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o
-x/Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m344b96bf40b6b441^3bacb8bf40b6b441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m0000000000000000^3011"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o JSClient/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignaziocalo/Desktop/JSClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386 -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources -F/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -include /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch -MMD -MT dependencies -MF /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.d -c /Users/ignaziocalo/Desktop/JSClient/JSClient/AppDelegate.m -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/AppDelegate.o36"2206BD9B-1474-470B-96F1-2FE1371A7113-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/Contatto.o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/Contatto.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s348312497.129898
-e348312498.882142
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/Contatto.o
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/Contatto.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/Contatto.m66a022b1d3c2b441^89d3e1b2d3c2b441^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/ignaziocalo/Desktop/Tutorial%20JSON/JSClient/Contatto.m0000000000000000^3186"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/Contatto.o Contatto.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap" -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources" "-F/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator" -include "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch" -MMD -MT dependencies -MF "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/Contatto.d" -c "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/Contatto.m" -o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/Contatto.o"36"F451FACB-6E90-4CBF-9DC7-2B4055AC8B26-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DetailViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s348316886.040577
-e348316886.124526
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DetailViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DetailViewController.mb27f0ad6e4c2b441^7ae01fd6e4c2b441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/ignaziocalo/Desktop/Tutorial%20JSON/JSClient/DetailViewController.m0000000000000000^3246"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap" -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources" "-F/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator" -include "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch" -MMD -MT dependencies -MF "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.d" -c "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DetailViewController.m" -o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o"36"39A14889-4F85-4805-A3A9-CD51D06A5840-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o /Users/ignaziocalo/Desktop/JSClient/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s347752846.151442
-e347752847.213066
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o
-x/Users/ignaziocalo/Desktop/JSClient/DetailViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/ignaziocalo/Desktop/JSClient/DetailViewController.ma0fb268e49bab441^098b368f49bab441^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/ignaziocalo/Desktop/JSClient/DetailViewController.m0000000000000000^3038"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignaziocalo/Desktop/JSClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386 -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources -F/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -include /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch -MMD -MT dependencies -MF /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.d -c /Users/ignaziocalo/Desktop/JSClient/DetailViewController.m -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/DetailViewController.o36"14FC50B2-AF72-42A2-A955-58CF43D8D5F5-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/MainTableViewController.o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/MainTableViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s348316944.084862
-e348316945.055225
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/MainTableViewController.o
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/MainTableViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/MainTableViewController.m91d11510e5c2b441^81220e11e5c2b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/ignaziocalo/Desktop/Tutorial%20JSON/JSClient/MainTableViewController.m0000000000000000^3261"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/MainTableViewController.o MainTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap" -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources" "-F/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator" -include "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch" -MMD -MT dependencies -MF "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/MainTableViewController.d" -c "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/MainTableViewController.m" -o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/MainTableViewController.o"36"A2C52905-D096-4D93-85BF-5BB442D4B4EE-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s348253877.156939
-e348253877.339192
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/main.m7d5b28b5eec1b441^e5d456b5eec1b441^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/ignaziocalo/Desktop/Tutorial%20JSON/JSClient/JSClient/main.m0000000000000000^3184"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o JSClient/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap" -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources" "-F/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator" -include "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch" -MMD -MT dependencies -MF "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.d" -c "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/main.m" -o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o"36"4C1FF375-AD30-4A5B-821E-28D117425341-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o /Users/ignaziocalo/Desktop/JSClient/JSClient/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s347487933.927297
-e347487933.995073
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o
-x/Users/ignaziocalo/Desktop/JSClient/JSClient/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/ignaziocalo/Desktop/JSClient/JSClient/main.m917cedbd3eb6b441^34bffebd3eb6b441^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/ignaziocalo/Desktop/JSClient/JSClient/main.m0000000000000000^2976"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o JSClient/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignaziocalo/Desktop/JSClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386 -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources -F/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -include /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch -MMD -MT dependencies -MF /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.d -c /Users/ignaziocalo/Desktop/JSClient/JSClient/main.m -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/main.o36"E00824F6-9476-41F7-8BDC-76B21F74F239-
-
-CCompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/mainTableViewController.o /Users/ignaziocalo/Desktop/JSClient/mainTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s347753340.819150
-e347753340.862250
-r1
-xCompileC
-xDerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/mainTableViewController.o
-x/Users/ignaziocalo/Desktop/JSClient/mainTableViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-o/Users/ignaziocalo/Desktop/JSClient/mainTableViewController.m:11:1: warning: incomplete implementation [-Wincomplete-implementation,3]
-o @implementation mainTableViewController
-o ^
-o/Users/ignaziocalo/Desktop/JSClient/mainTableViewController.h:16:1: note: method definition for 'downloadContatti' not found [3]
-o -(void)downloadContatti;
-o ^
-o1 warning generated.
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/ignaziocalo/Desktop/JSClient/mainTableViewController.m5709d27c4bbab441^8cbcdc7c4bbab441^-358"/Users/ignaziocalo/Desktop/JSClient/mainTableViewController.m:11:1: warning: incomplete implementation [-Wincomplete-implementation,3] @implementation mainTableViewController ^/Users/ignaziocalo/Desktop/JSClient/mainTableViewController.h:16:1: note: method definition for 'downloadContatti' not found [3] -(void)downloadContatti; ^1 warning generated.1(21%IDEActivityLogMessage2@25"Incomplete implementation-347753340#0#135#1(2@50"Method definition for 'downloadContatti' not found-347753340#179#129#-0#-23%DVTTextDocumentLocation3@77"file://localhost/Users/ignaziocalo/Desktop/JSClient/mainTableViewController.h0000000000000000^15#0#15#0#18446744073709551615#0#14"Semantic Issue--1#-3@77"file://localhost/Users/ignaziocalo/Desktop/JSClient/mainTableViewController.m0000000000000000^10#0#10#0#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@77"file://localhost/Users/ignaziocalo/Desktop/JSClient/mainTableViewController.m0000000000000000^3053"CompileC DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/mainTableViewController.o mainTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignaziocalo/Desktop/JSClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386 -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources -F/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -include /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch -MMD -MT dependencies -MF /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/mainTableViewController.d -c /Users/ignaziocalo/Desktop/JSClient/mainTableViewController.m -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/mainTableViewController.o36"4D8CBF63-DEFA-4214-903F-8CE47FD968BF-
-
-CCompileStoryboard "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/mainStoryBoard.storyboard"
-s348255127.847223
-e348255131.557409
-r1
-xCompileStoryboard
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/mainStoryBoard.storyboard
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"CompileStoryboard mainStoryBoard.storyboard99f3d897f3c1b441^29b28e9bf3c1b441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/ignaziocalo/Desktop/Tutorial%20JSON/JSClient/mainStoryBoard.storyboard0000000000000000^766"CompileStoryboard mainStoryBoard.storyboard    cd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/mainStoryBoard.storyboardc" "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/mainStoryBoard.storyboard" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"58F66FBD-6C04-4099-A6D5-8BDE4EAAFD54-
-
-CCompileStoryboard /Users/ignaziocalo/Desktop/JSClient/mainStoryBoard.storyboard
-s347752848.227492
-e347752852.110846
-r1
-xCompileStoryboard
-x/Users/ignaziocalo/Desktop/JSClient/mainStoryBoard.storyboard
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"CompileStoryboard mainStoryBoard.storyboarde44d3a9049bab441^dd601c9449bab441^-6216"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)-0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/ignaziocalo/Desktop/JSClient/mainStoryBoard.storyboard0000000000000000^718"CompileStoryboard mainStoryBoard.storyboard    cd /Users/ignaziocalo/Desktop/JSClient    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/mainStoryBoard.storyboardc /Users/ignaziocalo/Desktop/JSClient/mainStoryBoard.storyboard --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"64E6346E-AF80-4A44-ACFE-FECCBFDB76A8-
-
-CCopyStringsFile "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings" JSClient/en.lproj/InfoPlist.strings
-r0
-
-CCopyStringsFile /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings JSClient/en.lproj/InfoPlist.strings
-s347487934.695621
-e347487934.714507
-r1
-xCopyStringsFile
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings
-xJSClient/en.lproj/InfoPlist.strings
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy JSClient/en.lproj/InfoPlist.stringsc023b2be3eb6b441^4aecb6be3eb6b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/ignaziocalo/Desktop/JSClient/JSClient/en.lproj/InfoPlist.strings0000000000000000^569"CopyStringsFile DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj/InfoPlist.strings JSClient/en.lproj/InfoPlist.strings    cd /Users/ignaziocalo/Desktop/JSClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/en.lproj -- JSClient/en.lproj/InfoPlist.strings36"86A223E8-A3DC-4674-A91D-7A5A50A24995-
-
-CGenerateDSYMFile "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM" "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient"
-s348316945.504042
-e348316945.649908
-r1
-xGenerateDSYMFile
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Generating /Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYMd3148111e5c2b441^c85fa611e5c2b441^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/ignaziocalo/Desktop/Tutorial%20JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM/0000000000000000^658"GenerateDSYMFile DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient    cd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient" -o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM"36"A60057BF-CEC7-491E-B737-1612224E0046-
-
-CGenerateDSYMFile /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-s347753340.899483
-e347753340.961164
-r1
-xGenerateDSYMFile
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generating /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM2f50e67c4bbab441^fa0ef67c4bbab441^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM/0000000000000000^610"GenerateDSYMFile DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient    cd /Users/ignaziocalo/Desktop/JSClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app.dSYM36"8831BF3E-B5E4-4752-8B3E-96B45BC17EE8-
-
-CLd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient" normal i386
-s348316945.061989
-e348316945.497171
-r1
-xLd
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-xnormal
-xi386
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient41f10f11e5c2b441^aa467f11e5c2b441^---0#0#0#--1269"Ld DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient normal i386    cd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk "-L/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator" "-F/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator" -filelist "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/JSClient.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient"36"4D4B3BEE-9315-4EAF-A23E-733DDD94FBC8-
-
-CLd /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient normal i386
-s347753340.869364
-e347753340.892489
-r1
-xLd
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient
-xnormal
-xi386
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient629dde7c4bbab441^297ae47c4bbab441^---0#0#0#--1189"Ld DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient normal i386    cd /Users/ignaziocalo/Desktop/JSClient    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -F/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -filelist /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/Objects-normal/i386/JSClient.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/JSClient36"399EF5F5-59FB-4BF3-AA88-5A9AF0EF1C7E-
-
-CProcessInfoPlistFile "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist" JSClient/JSClient-Info.plist
-r0
-
-CProcessInfoPlistFile /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist JSClient/JSClient-Info.plist
-s347488158.551821
-e347488158.555350
-r1
-xProcessInfoPlistFile
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist
-xJSClient/JSClient-Info.plist
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process JSClient/JSClient-Info.pliste7518d9e3fb6b441^9d2b8e9e3fb6b441^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/ignaziocalo/Desktop/JSClient/JSClient/JSClient-Info.plist0000000000000000^674"ProcessInfoPlistFile DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist JSClient/JSClient-Info.plist    cd /Users/ignaziocalo/Desktop/JSClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility JSClient/JSClient-Info.plist -genpkginfo /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app/Info.plist36"405FA446-A673-41FF-B842-F2D29801DBB5-
-
-CProcessPCH "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch.pth" JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s348253875.208389
-e348253877.149773
-r1
-xProcessPCH
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch.pth
-xJSClient/JSClient-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile JSClient/JSClient-Prefix.pchc90236b3eec1b441^ac5626b5eec1b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/ignaziocalo/Desktop/Tutorial%20JSON/JSClient/JSClient/JSClient-Prefix.pch0000000000000000^3030"ProcessPCH DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch.pth JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap" -iquote "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386" "-I/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources" "-F/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator" -c "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/JSClient/JSClient-Prefix.pch" -o "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-dbrxgpuucjkhcsdbjuizdooqjqmo/JSClient-Prefix.pch.d"36"DB3AF61D-649D-4410-BE46-4E8B82E42167-
-
-CProcessPCH "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Index/PrecompiledHeaders/JSClient-Prefix-fmfgykvjddjgawfdiyruqvqmguck_ast/JSClient-Prefix.pch.pth" JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s347487932.913889
-e347487933.919688
-r1
-xProcessPCH
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth
-xJSClient/JSClient-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile JSClient/JSClient-Prefix.pchc616eabc3eb6b441^1d72ebbd3eb6b441^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/ignaziocalo/Desktop/JSClient/JSClient/JSClient-Prefix.pch0000000000000000^2838"ProcessPCH DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignaziocalo/Desktop/JSClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-generated-files.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-own-target-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-all-target-headers.hmap -iquote /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/JSClient-project-headers.hmap -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/include -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources/i386 -I/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Intermediates/JSClient.build/Debug-iphonesimulator/JSClient.build/DerivedSources -F/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator -c /Users/ignaziocalo/Desktop/JSClient/JSClient/JSClient-Prefix.pch -o /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.pth -MMD -MT dependencies -MF /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/PrecompiledHeaders/JSClient-Prefix-hktywfbypmcvftemfwdvrexkgchb/JSClient-Prefix.pch.d36"90083547-D8C4-4CBA-A01C-52D42E437333-
-
-CProcessPCH /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Index/PrecompiledHeaders/JSClient-Prefix-evqyptvdveourzctbxmenuuydarj_ast/JSClient-Prefix.pch.pth JSClient/JSClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app"
-s348316945.666933
-e348316945.687731
-r1
-xTouch
-x/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch /Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.appb4c8aa11e5c2b441^770fb011e5c2b441^---0#0#0#--412"Touch DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app    cd "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/ignaziocalo/Desktop/Tutorial JSON/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app"36"452137A1-6315-4E0E-8D88-887E6AD2DF81-
-
-CTouch /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app
-s347753340.978184
-e347753340.982430
-r1
-xTouch
-x/Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app8e74fa7c4bbab441^7381fb7c4bbab441^---0#0#0#--380"Touch DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app    cd /Users/ignaziocalo/Desktop/JSClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ignaziocalo/Desktop/JSClient/DerivedData/JSClient/Build/Products/Debug-iphonesimulator/JSClient.app36"5598E306-3FE7-4983-A7FA-595CA2F082B4-
-
